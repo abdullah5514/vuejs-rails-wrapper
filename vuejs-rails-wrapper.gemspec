@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{A simple way to add Vue.js in your rails project.
                            No need of webpacker. Just add this gem in your 
                            project and work on vue without webpacker.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/abdullah5514/vuejs-rails-wrapper"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
