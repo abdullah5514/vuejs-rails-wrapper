@@ -1,6 +1,6 @@
 # Vuejs::Rails::Wrapper
 
-TODO: Write a gem description
+A simple way to add Vue.js in your rails project.No need of webpacker. Just add this gem in your project and work on vue without webpacker.
 
 ## Installation
 
